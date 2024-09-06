@@ -61,7 +61,7 @@
 		A4FC6F7E2C8AEA2D0056E1E2 = {
 			isa = PBXGroup;
 			children = (
-				A4FC6F8F2C8AEA2D0056E1E2 /* GoldenCup Watch App */,
+				A4FC6F8F2C8AEA2D0056E1E2 /* GoldenCupWatchApp */,
 				A4FC6F862C8AEA2D0056E1E2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -75,7 +75,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A4FC6F8F2C8AEA2D0056E1E2 /* GoldenCup Watch App */ = {
+		A4FC6F8F2C8AEA2D0056E1E2 /* GoldenCupWatchApp */ = {
 			isa = PBXGroup;
 			children = (
 				A4FC6F902C8AEA2D0056E1E2 /* GoldenCupApp.swift */,
@@ -83,7 +83,7 @@
 				A4FC6F942C8AEA2E0056E1E2 /* Assets.xcassets */,
 				A4FC6F962C8AEA2E0056E1E2 /* Preview Content */,
 			);
-			path = "GoldenCup Watch App";
+			path = GoldenCupWatchApp;
 			sourceTree = "<group>";
 		};
 		A4FC6F962C8AEA2E0056E1E2 /* Preview Content */ = {
@@ -329,7 +329,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"GoldenCup Watch App/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"GoldenCupWatchApp/Preview Content\"";
 				DEVELOPMENT_TEAM = QXP7CYALWN;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -359,7 +359,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"GoldenCup Watch App/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"GoldenCupWatchApp/Preview Content\"";
 				DEVELOPMENT_TEAM = QXP7CYALWN;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
